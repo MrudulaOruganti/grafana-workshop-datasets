@@ -1,0 +1,6 @@
+book_id,title,issued_to,issue_date,return_date
+101,Python Basics,Alice,2025-07-10,2025-07-15
+102,Data Science,Bob,2025-07-11,2025-07-16
+103,AI Fundamentals,Charlie,2025-07-12,2025-07-17
+104,IoT Projects,Diana,2025-07-13,2025-07-18
+105,Cloud Computing,Ethan,2025-07-14,2025-07-19
